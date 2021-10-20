@@ -7,7 +7,7 @@ description: "Something about this young girl: Shirley Wan"
 draft: false
 image: aboutme.jpg
 keywords: ""
-slug: ipsum
+slug: aboutme
 title: About me
 ---
 
